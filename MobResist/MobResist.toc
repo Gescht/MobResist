@@ -1,8 +1,0 @@
-## Interface: 11200
-## Title: MobResist
-## Version: 1.2
-## Author: Armilus
-## SavedVariables: MOBRESIST_CONFIG
-## Notes: Displays the resistances of your selected target.
-MobResist.xml
-MobResistMenu.xml
