@@ -15,6 +15,7 @@ Show the current Armor/Holy/Fire/Nature/Frost/Shadow/Arcane  resistance of the m
 Based on `MobResist 1.2`
 
 # Instalation
+Rename `MobResist-master` to `MobResist`
 Put `MobResist` folder to `World of Warcraft\Interface\AddOns`
 
 # Detailed description
